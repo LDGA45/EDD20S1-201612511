@@ -12,6 +12,8 @@ blog: Under construction
 
 2. **Amount**
 	- 100 Pocoins :panda_face:
+		-This currency system is integer that means there are no decimals
+
 
 3. **Users and coins division**
 	- ***Users***
