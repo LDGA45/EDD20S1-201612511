@@ -11,14 +11,14 @@ blog: Under construction
 	- POCOINS
 
 2. **Amount**
-	- 100 
+	- 100 Pocoins :panda_face:
 
 3. **User and coins division**
-	- Thor :arrow_right: 10
-	- Dante :arrow_right: 10
-	- Kratos :arrow_right: 10
-	- Miguel :arrow_right: 10
-	- BigBank (coin purse) :arrow_right: 60
+	- Thor :arrow_right: 10 Pocoins :panda_face:
+	- Dante :arrow_right: 10 Pocoins :panda_face:
+	- Kratos :arrow_right: 10 Pocoins :panda_face:
+	- Miguel :arrow_right: 10 Pocoins :panda_face:
+	- BigBank (coin purse) :arrow_right: 60  Pocoins :panda_face:
 
-4.
+4. 
 
