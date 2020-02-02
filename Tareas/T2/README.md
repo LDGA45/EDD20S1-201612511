@@ -14,9 +14,11 @@ blog: Under construction
 	- 100 
 
 3. **User and coins division**
-	- Thor :arrow_rigth: 10
-	- Dante :arrow_rigth: 10
-	- Kratos :arrow_rigth: 10
-	- Miguel :arrow_rigth: 10
-	- BigBank (coin purse) :arrow_rigth: 60
+	- Thor :arrow_right: 10
+	- Dante :arrow_right: 10
+	- Kratos :arrow_right: 10
+	- Miguel :arrow_right: 10
+	- BigBank (coin purse) :arrow_right: 60
+
+4.
 
