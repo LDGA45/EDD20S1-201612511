@@ -1,11 +1,11 @@
-## COIN 
+# COIN 
 
 developed by **Luis Garcia**<br>
 id: 201612511<br>
 email: luisforreverr@gmail.com<br>
 blog: Under construction  
 
-### SPECIFICATIONS
+## SPECIFICATIONS
 
 1. **Currency Name**
 	- POCOINS
@@ -28,3 +28,16 @@ blog: Under construction
 	- User to User
 	- BigBank to User 
 
+5. **Details of methods**
+	- Moneda = (create, showOwner, transferToUser, transferBetweenUsers)<br>
+	- Operaciones: <br>
+		- create(String name, int value)<br>
+	- parameters: name dont't be null, value do be mayor of zero<br> 
+	- function: show a object with name and value 
+		- showOwner(array,String): show Owners<br>
+	- parameters: array dont be null<br>
+		- show a list whit the owners and the respective tokens<br>
+	- transferToUser(quantity, owner, token ):<br>
+	- quentity: quentity of tokens owner's have<br>
+	- owner: name of owner of tokens<br>
+	- token: name of token<br>
