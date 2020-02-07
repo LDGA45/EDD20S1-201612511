@@ -16,5 +16,5 @@ is a simple list with four methods
         - first search the nodo after delete de information of the nodo 
     - show = ()<br>
         - show the information of the nodo 
-    -insert = (integer numero, string nombre)<br>
+    - insert = (integer numero, string nombre)<br>
         - create a new nodo then add it to the list 
