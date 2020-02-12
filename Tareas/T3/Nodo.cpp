@@ -1,7 +1,5 @@
-#include <iostream>
-#include <cstdlib>
-#include <string>
 #include "Nodo.h"
+
 
 
 
