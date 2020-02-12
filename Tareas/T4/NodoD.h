@@ -2,12 +2,15 @@
 #include <string>
 using namespace std;
 
-class NodoD{
+class NodoDoble{
+
 public:
-	NodoD(char letra);
+
+	NodoDoble(char letra);
 
 	char letra;
-	NodoD* siguiente;
-    NodoD* anterior;
-	
+
+	NodoDoble* siguiente;
+	NodoDoble* anterior;
+
 };
