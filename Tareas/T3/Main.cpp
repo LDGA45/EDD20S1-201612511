@@ -1,26 +1,29 @@
 #include <iostream>
 #include <cstdlib>
 #include <string>
-#include "ListaSimple.h"
+#include "Lista.h"
 using namespace std;
 
 
 int main(int argc, char *argv[])
 {
 	Lista lista = Lista();
-	lista.insert(201612511, "Luis Garcia");
-    lista.insert(201612288, " Marco Salazar");
-	lista.insert(201612185, " Byron Alvarez");
-	lista.insert(201612481, "Ronald Martinez");
-
-	lista.show();
-	lista.eliminate(lista.search(4));
+	lista.insertar(12511, "Luis");
+    lista.insertar(12288, "Marco");
+	lista.insertar(12185, "Byron");
+	lista.insertar(12481, "Ronald");
+	lista.insertar(52166, " Pedro");
+	lista.insertar(65153, "Juan");
+	
+	lista.mostrar();
+	lista.eliminar(lista.buscar(4));
 
 	cout << "\n";
 
-	lista.insert(201612507, "Carlos ruiz");
-	lista.show();
+	lista.insertar(201612507, "Carlos");
+	lista.mostrar();
 
 
 	system("pause");
+	return 0;
 }
